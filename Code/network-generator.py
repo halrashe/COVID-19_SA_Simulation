@@ -1,3 +1,6 @@
+# Hend Alrasheed, June 2020.
+# This code generates a network dataset representing contact relationships among Saudi individuals. 
+
 import numpy as np
 import pandas as pd
 import seaborn as sns
