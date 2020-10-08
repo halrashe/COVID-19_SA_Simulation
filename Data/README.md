@@ -1,8 +1,6 @@
 #### This folder contains the following data files:
 
-##### Daily numbers of COVID-19 new cases in Saudi Arabia [1].
-
-The original file can be found [here](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases).
+##### Daily numbers of COVID-19 new cases in Saudi Arabia [1]. The original file can be found [here](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases).
 
 ##### Saudi population demographics data files. The data was used to define the parameters for the contact network generation model. The folder contains two files:
 
